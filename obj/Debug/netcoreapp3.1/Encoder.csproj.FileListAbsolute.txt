@@ -1,0 +1,16 @@
+C:\Users\chanc\source\repos\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.exe
+C:\Users\chanc\source\repos\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.deps.json
+C:\Users\chanc\source\repos\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.runtimeconfig.json
+C:\Users\chanc\source\repos\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.runtimeconfig.dev.json
+C:\Users\chanc\source\repos\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.dll
+C:\Users\chanc\source\repos\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.pdb
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.csproj.AssemblyReference.cache
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.Form1.resources
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.csproj.GenerateResource.cache
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.AssemblyInfoInputs.cache
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.AssemblyInfo.cs
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.dll
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.pdb
+C:\Users\chanc\source\repos\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.genruntimeconfig.cache
