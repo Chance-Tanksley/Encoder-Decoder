@@ -1,0 +1,16 @@
+C:\Users\chanc\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.exe
+C:\Users\chanc\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.deps.json
+C:\Users\chanc\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.runtimeconfig.json
+C:\Users\chanc\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.runtimeconfig.dev.json
+C:\Users\chanc\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.dll
+C:\Users\chanc\source\repos\Decoder\Decoder\bin\Debug\netcoreapp3.1\Decoder.pdb
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.csproj.AssemblyReference.cache
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.Form1.resources
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.csproj.GenerateResource.cache
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.AssemblyInfoInputs.cache
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.AssemblyInfo.cs
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.csproj.CoreCompileInputs.cache
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.dll
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.pdb
+C:\Users\chanc\source\repos\Decoder\Decoder\obj\Debug\netcoreapp3.1\Decoder.genruntimeconfig.cache
